@@ -30,8 +30,10 @@ def build_url():
             print('values: ', data_points['data-value'])                
         for span in span_text:
             print(span.get_text())
-                    # for character in content:
                 
+######
+######
+###### 
 
-build_url()
+
 
