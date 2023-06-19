@@ -31,9 +31,6 @@ def build_url():
         for span in span_text:
             print(span.get_text())
                 
-######
-######
-###### 
 
 
 
